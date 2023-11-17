@@ -1,0 +1,25 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCpf.resources

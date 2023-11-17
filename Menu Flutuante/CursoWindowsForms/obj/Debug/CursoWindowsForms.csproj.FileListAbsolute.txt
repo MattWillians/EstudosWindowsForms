@@ -1,0 +1,69 @@
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csprojAssemblyReference.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+C:\WindowsForms\Curso\CursoWindowsForms\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe.config
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\bin\Debug\CursoWindowsForms.exe
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\bin\Debug\CursoWindowsForms.pdb
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.dll
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\bin\Debug\CursoWindowsFormsBiblioteca.pdb
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.AssemblyReference.cache
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemonstracaoKey.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ArquivoImagem_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_DemostracaoKey_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_HelloWorld_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Login.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Mascara_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Menu_Flutuante.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCaptura.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseCursor.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_MouseEventos.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_MDI.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Principal_Menu_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_Questao.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaCPF2_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Frm_ValidaSenha_UC.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.Properties.Resources.resources
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.csproj.CopyComplete
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.exe
+C:\Users\Pichau\Desktop\AmbienteDev\Programação\ALURA\FORMAÇÕES BACK-END\FORMAÇÃO Windows Forms - CSharp\Menu Flutuante\CursoWindowsForms\obj\Debug\CursoWindowsForms.pdb
